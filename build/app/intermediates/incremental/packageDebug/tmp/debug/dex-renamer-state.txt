@@ -1,4 +1,4 @@
-#Fri May 05 22:46:56 CST 2023
-base.0=N\:\\cs106\\fooderlich\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sat May 06 01:06:22 CST 2023
+base.0=N\:\\hub\\fooderlich\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
