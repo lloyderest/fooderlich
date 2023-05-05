@@ -34,6 +34,10 @@ file
 2.12
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4/
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4/lib/
+flutter_colorpicker
+2.12
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_colorpicker-1.0.3/
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_colorpicker-1.0.3/lib/
 flutter_lints
 2.17
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-2.0.1/
@@ -50,6 +54,10 @@ http_parser
 2.12
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2/
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2/lib/
+intl
+2.12
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1/
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1/lib/
 js
 2.16
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.5/
@@ -70,6 +78,10 @@ meta
 2.12
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.8.0/
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.8.0/lib/
+nested
+2.12
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0/
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0/lib/
 path
 2.12
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.2/
@@ -110,6 +122,10 @@ process
 2.14
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/process-4.2.4/
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/process-4.2.4/lib/
+provider
+2.12
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.0.5/
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.0.5/lib/
 source_span
 2.14
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.9.1/
@@ -138,6 +154,10 @@ typed_data
 2.12
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.1/
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.1/lib/
+uuid
+2.12
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7/
+file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/uuid-3.0.7/lib/
 vector_math
 2.14
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4/
@@ -150,10 +170,6 @@ xdg_directories
 2.17
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.0/
 file:///C:/Users/admin/AppData/Local/Pub/Cache/hosted/pub.dev/xdg_directories-1.0.0/lib/
-fooderlich
-2.17
-file:///N:/cs106/fooderlich/
-file:///N:/cs106/fooderlich/lib/
 sky_engine
 2.12
 file:///N:/flutter/bin/cache/pkg/sky_engine/
@@ -166,4 +182,8 @@ flutter_test
 2.17
 file:///N:/flutter/packages/flutter_test/
 file:///N:/flutter/packages/flutter_test/lib/
+fooderlich
+2.17
+file:///N:/hub/fooderlich/
+file:///N:/hub/fooderlich/lib/
 2
