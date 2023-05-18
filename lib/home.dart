@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'models/tab_manager.dart';
 import 'screens/explore_screen.dart';
 import 'screens/recipes_screen.dart';
 import 'screens/grocery_screen.dart';
